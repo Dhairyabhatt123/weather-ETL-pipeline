@@ -2,3 +2,5 @@ requests
 pandas
 sqlalchemy
 pymysql
+streamlit
+plotly
